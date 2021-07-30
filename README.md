@@ -1,1 +1,1 @@
-# ClickHouseTutorial
+Краткий перечень команд ClickHouse
