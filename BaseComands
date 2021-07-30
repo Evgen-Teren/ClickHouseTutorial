@@ -1,0 +1,11 @@
+# Посмотреть существующие базы данных:
+SHOW DATABASES
+
+# Выбор базы данных:
+USE db_name
+
+# Создание таблицы:
+CREATE TABLE table_name
+
+# Посмотреть описание столбцов таблицы:
+DESCRIBE TABLE db_name.table_name
